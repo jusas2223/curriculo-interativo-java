@@ -1,0 +1,43 @@
+{
+  "nome": "João Rafael da Silva Pereira",
+  "objetivo": "Estudante de Engenharia de Software com perfil proativo, forte determinação e vivência prática em suporte tecnológico e resolução de problemas críticos. Busco minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário, com total prontidão e dedicação para dominar novas tecnologias e evoluir junto ao time. Trago uma visão diferenciada que une o funcionamento da infraestrutura à lógica de programação em Java (POO), focado em construir soluções de software eficientes, limpas e escaláveis.",
+  "habilidades": [
+    "Desenvolvimento e Banco de Dados: Back-end em Java (POO) e modelagem relacional com PostgreSQL. Front-end com HTML, CSS e JavaScript.",
+    "Ferramentas e Versionamento: IntelliJ IDEA, Git e GitHub.",
+    "Infraestrutura e Redes: Equipamentos Cisco (Roteadores/Switches), Console/VTY e IPv4/IPv6."
+  ],
+  "experiencias": [
+    {
+      "cargo": "Técnico de Hardware e Suporte (Autônomo)",
+      "empresa": "Banco do Brasil",
+      "periodo": "Maio/2026 - Presente",
+      "descricao": "Atuação autônoma no diagnóstico de falhas, manutenção preventiva e corretiva de equipamentos, além de suporte à infraestrutura local."
+    }
+  ],
+  "formacoes": [
+    {
+      "curso": "Engenharia de Software",
+      "instituicao": "Instituto Federal do Paraná (IFPR)",
+      "periodo": "Março/2025 - Dezembro/2028"
+    },
+    {
+      "curso": "Manutenção de Computadores e Hardware",
+      "instituicao": "Infotec",
+      "periodo": "Concluído em Novembro/2023"
+    }
+  ],
+  "projetos": [
+    {
+      "nome": "Simulador de Veículos e Gestão de Pedidos",
+      "tecnologias": "Java, POO, PostgreSQL",
+      "descricao": "Desenvolvimento focado nos pilares da Orientação a Objetos (Herança e Polimorfismo) para lógicas de simulação e controle de pedidos, com integração de dados em PostgreSQL.",
+      "link": "github.com/jusas2223/projetos-java"
+    },
+    {
+      "nome": "Jogo Ivaiporã",
+      "tecnologias": "HTML, CSS, JavaScript",
+      "descricao": "Criação de uma aplicação interativa com interface dinâmica e responsiva, aplicando design thinking e lógica de programação front-end.",
+      "link": "github.com/jusas2223/jogo-ivaipora"
+    }
+  ]
+}
